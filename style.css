@@ -1,0 +1,25 @@
+.navbar {
+    background-image: url('img/img.JPG');
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.entete {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+
+}
+.navbar-nav {
+    margin-left: 70%;
+}
+.display-5{
+    font-size: 30px;
+}
+#showcase{margin-bottom: 100px;
+
+}
+
